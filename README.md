@@ -1,6 +1,6 @@
 # MERN-AuthStart
 
-A complete **MERN stack** authentication starter kit featuring email/password login, Google OAuth, guest login, and role-based access control (RBAC). Built with **TanStack Query (React Query)** for efficient client-side data fetching and caching. Perfect as a secure, reusable starting point for future projects.
+A complete **MERN stack** authentication starter kit featuring email/password login, Google OAuth, guest login, and role-based access control (RBAC). Built with **TanStack Query (React Query)** for efficient client-side data fetching and caching. Perfect as a secure, reusable starting point for your projects.
 
 ---
 
@@ -46,12 +46,10 @@ cd frontend
 npm install
 npm run dev
 
-
+📦 Install and Run Backend
 cd backend
 npm install
 npm run dev
-
-
 
 🌍 Environment Variables
 Backend .env
